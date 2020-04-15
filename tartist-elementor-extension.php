@@ -322,7 +322,7 @@ Tartist_Elementor_Extension::instance();
  * 1. enqueue the required css/js
  */
 function tartistElementor__enqueue_scripts(){
-    wp_enqueue_style( 'tartistElementor-style', plugins_url( 'style.css', __FILE__ ), null, microtime() );
+    wp_enqueue_style( 'tartistElementor-style', plugins_url( 'style.css', __FILE__ ) );
 }
 add_action( 'wp_enqueue_scripts', 'tartistElementor__enqueue_scripts' );
 
