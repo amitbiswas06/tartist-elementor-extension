@@ -1,10 +1,10 @@
 # Tartist Elementor Extension 1.0.0
 * Adds dynamic widgets for Elementor
 
-** This plugin requires the following plugins to work **
+* This plugin requires the following plugins to work **
 1. Elementor Page Builder 2.8.5 or greater.
 
-** Available Widgets **
+* Available Widgets
 1. Posts grid with the following settings -
     A. Content settings:
         i. "Show posts by" - "Most Recent", "by Category", "Manually Select".

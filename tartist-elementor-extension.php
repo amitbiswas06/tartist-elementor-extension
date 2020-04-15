@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Tartist Elementor Extension
-Plugin URI: https://templateartist.com/
+Plugin URI: https://github.com/amitbiswas06/tartist-elementor-extension
 Description: Extendes Elementor with custom widgets.
 Version: 1.0.0
 Author: Amit Biswas
