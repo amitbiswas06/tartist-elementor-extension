@@ -1,22 +1,15 @@
-# Tartist Elementor Extension 1.0.0
-* Adds dynamic widgets for Elementor
+# Tartist Elementor Extension
+*Adds dynamic widgets for Elementor*
+- Current Version 1.0.0
 
-* This plugin requires the following plugins to work **
-1. Elementor Page Builder 2.8.5 or greater.
+**This plugin requires the following plugins to work**
+- [Elementor Page Builder 2.8.5 or greater.](https://wordpress.org/plugins/elementor/)
 
-* Available Widgets
-1. Posts grid with the following settings -
-    A. Content settings:
-        i. "Show posts by" - "Most Recent", "by Category", "Manually Select".
-        ii. "Total Posts".
-        iii. "Remove post elements" - "Featured Image", "Excerpt".
+**Available Widgets**
 
-    B. Style Settings:
-        i. "Columns per row" - Responsive.
-        ii. "Column Spacing" - Responsive.
-        iii. "Border Radius".
-        iv. "Item Background Color".
-        v. "Text Color".
-
-    C. Advanced Settings:
-        i. Elementor Default
+ 1. Posts Grid
+	 - Recent Posts
+	 - Posts by Category
+	 - Manually Selected Posts
+	 - Layout Settings
+	 - Color Settings
