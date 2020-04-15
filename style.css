@@ -1,0 +1,32 @@
+/*
+* Posts Grid
+*/
+.elementor .tartist-posts-grid__post{
+    margin-bottom: 30px;
+    background-color: #ffffff;
+}
+.tartist-posts-grid__post .post-content{
+    padding: 20px;
+}
+
+@media (min-width: 600px){
+  .tartist-posts-grid__wrap{
+      display: grid;
+  }
+}
+.tartist-posts-grid__post {
+  box-shadow: 1px 2px 4px rgba(0,0,0,0.150);
+  overflow: hidden;
+}
+
+.post-content__content {
+  margin-top: 15px;
+}
+
+/*
+* Default style for the elementor editor mode
+*/
+.elementor-default .elementor-widget-tartist_posts .tartist-posts-grid__post{
+  margin-bottom: 30px;
+  background-color: #ffffff;
+}
