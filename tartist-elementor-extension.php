@@ -40,7 +40,7 @@ final class Tartist_Elementor_Extension {
 	 *
 	 * @var string Minimum Elementor version required to run the plugin.
 	 */
-	const MINIMUM_ELEMENTOR_VERSION = '2.8.5';
+	const MINIMUM_ELEMENTOR_VERSION = '2.9.7';
 
 	/**
 	 * Minimum PHP Version

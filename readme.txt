@@ -11,7 +11,7 @@ Domain Path: /languages/
 */
 
 ** This plugin requires the following plugins to work **
-1. Elementor Page Builder 2.8.5 or greater.
+1. Elementor Page Builder 2.9.7 or greater.
 
 ** Available Widgets **
 1. Posts grid with the following settings -

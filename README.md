@@ -3,7 +3,9 @@
 - Current Version 1.0.0
 
 **This plugin requires the following plugins to work**
-- [Elementor Page Builder 2.8.5 or greater.](https://wordpress.org/plugins/elementor/)
+- [Elementor Page Builder 2.9.7 or greater.](https://wordpress.org/plugins/elementor/)
+
+**Compatible with WordPress 5.4 and up**
 
 **Available Widgets**
 
